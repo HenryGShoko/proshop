@@ -3,7 +3,9 @@
 Features
 
 Full featured shopping cart
+
 Product reviews and ratings
+
 Top products carousel
 Product pagination
 Product search feature
