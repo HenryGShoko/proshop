@@ -1,5 +1,8 @@
 # proshop
 
+Developed by 2021 Henry Shoko
+
+
 **Features**
 
 Full featured shopping cart
@@ -117,5 +120,4 @@ jane@example.com (Customer)
 123456
 
 
-Developed by 2021 Henry Shoko
 
