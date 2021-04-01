@@ -1,6 +1,6 @@
 # proshop
 
-Features
+**Features**
 
 Full featured shopping cart
 
@@ -28,7 +28,7 @@ PayPal / credit card integration
 
 Database seeder (products & users)
 
-Usage
+**Usage**
 ES Modules in Node
 I used ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+.
 
