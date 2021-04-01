@@ -30,13 +30,15 @@ Database seeder (products & users)
 
 **Usage**
 ES Modules in Node
+
 I used ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+.
 
 Also, when importing a file (not a package), be sure to add .js at the end or you will get a "module not found" error
 
 You can also install and setup Babel if you would like
 
-Env Variables
+**Env Variables
+**
 Create a .env file in then root and add the following
 
 NODE_ENV = development
